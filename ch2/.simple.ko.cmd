@@ -1,0 +1,1 @@
+cmd_/home/richard/final-src-osc9e/final-src-osc9e/ch2/simple.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-4.9.0-12-common/scripts/module-common.lds --build-id  -o /home/richard/final-src-osc9e/final-src-osc9e/ch2/simple.ko /home/richard/final-src-osc9e/final-src-osc9e/ch2/simple.o /home/richard/final-src-osc9e/final-src-osc9e/ch2/simple.mod.o ;  true
